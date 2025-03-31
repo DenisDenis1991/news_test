@@ -1,0 +1,1 @@
+{"root":["./src/main.tsx","./src/vite-env.d.ts","./src/app/app.tsx","./src/entities/newscard/ui/newscard.tsx","./src/features/addnewsmodal/ui/addnewsmodal.tsx","./src/features/editnewsmodal/ui/editnewsmodal.tsx","./src/shared/const/index.ts","./src/shared/hooks/usenewsdata/model/index.ts","./src/widget/newslist.tsx"],"version":"5.7.3"}

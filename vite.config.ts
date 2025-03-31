@@ -16,4 +16,5 @@ export default defineConfig({
       generateScopedName: '[path][name]__[local]--[hash:base64:5]',
     },
   },
+  base: '/news_test/',
 })
